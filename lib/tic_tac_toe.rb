@@ -29,6 +29,8 @@ input.to_i-1 #convert the input to integer (which give 1) here and minus one to 
 end
 
 def move(board = [0], token = "X")
+
+
 end
 
 end
