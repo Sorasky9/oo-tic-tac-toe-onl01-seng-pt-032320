@@ -31,7 +31,6 @@ end
 def move(index, token)
   board(token)
 
-binding.pry
 end
 
 end
