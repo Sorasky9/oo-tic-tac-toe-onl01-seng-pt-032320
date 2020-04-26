@@ -29,7 +29,7 @@ input.to_i-1 #convert the input to integer (which give 1) here and minus one to 
 end
 
 def move(index, token)
-  @board(token)
+  board(token)
 
 
 end
