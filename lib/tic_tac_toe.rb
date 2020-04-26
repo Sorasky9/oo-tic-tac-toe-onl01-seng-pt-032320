@@ -28,7 +28,7 @@ def input_to_index(input)# the input argument will receive the number on the boa
 input.to_i-1 #convert the input to integer (which give 1) here and minus one to match the indexes on the board
 end
 
-def move(index, token)
+def move(index, token = "X")
 
 end
 
